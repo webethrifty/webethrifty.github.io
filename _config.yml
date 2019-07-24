@@ -1,5 +1,65 @@
-theme: jekyll-theme-architect
-title: We Be Thrifty
-description: Life Hacks of a Frugal Family With Seven Children
-show_downloads: false
-google_analytics: UA-144516479-1
+# Site
+name: 'We Be Thrifty'
+description: 'We Be Thrifty gives ideas to help you be more frugal and self-sufficient.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: '/'
+disqus: 'webethrifty'
+email: 'brian.whigham@gmail.com'
+mailchimp-list: 'https://xxxxxxwowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    brian:
+      name:           Brian
+      site:           https://www.webethrifty.com
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Brian, the author of We Be Thrifty. I hope you like it!"
+      email:          fake1@gmail.com
+      twitter:        https://twitter.com/oobx
+
+    racheal:
+      name:           Racheal
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, mother, wife, online retail expert!"
+      email:          fake@gmail.com
+      twitter:        https://twitter.com/rawhigham
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: brian
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
