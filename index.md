@@ -1,8 +1,3 @@
-</p>
-<p>
-</p>
-</body>
-</html>
 ## We Be Thrifty
 If you found us, you're probably a thrifty person.  Or, you have heard of one of our crazy life hacks.
 
