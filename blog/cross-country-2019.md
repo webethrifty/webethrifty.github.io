@@ -1,6 +1,8 @@
 ---
+title: We Drove A Free Prius Across The US
 layout: post
 author: brian
+date: July 24, 2019
 ---
 A few years back, my in-laws moved to Washington.  Would you beleive that my wife wanted to go visit?
 
