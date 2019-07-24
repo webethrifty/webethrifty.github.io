@@ -1,4 +1,3 @@
-## We Be Thrifty
 If you found us, you're probably a thrifty person.  Or, you have heard of one of our crazy life hacks.
 
 Join us as we share thrifty adventures to thrive with our seven children.
