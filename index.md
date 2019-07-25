@@ -1,9 +1,9 @@
 ---
-title: "Mundana Free Jekyll Theme"
+title: "We Be Thrifty"
 layout: default
 pagination:
     enabled: true
-description: "A great Jekyll theme developed by Sal @wowthemesnet."
+description: "A blog of a frugal family with seven children."
 ---
 
 
