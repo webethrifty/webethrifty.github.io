@@ -6,6 +6,7 @@ categories: [ Prius, travel ]
 image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
 date: July 24, 2019
 tags: [Prius,hack,travel]
+comments: true
 ---
 A few years back, my in-laws moved to Washington.  Would you beleive that my wife wanted to go visit?
 
